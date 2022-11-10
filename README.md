@@ -8,6 +8,7 @@ To install sentimentel library
   npm i sentiment
 ```
 
+## Screenshots
 
 ![App Screenshot](https://user-images.githubusercontent.com/32294411/200968577-32451646-9cb8-4f24-99cd-fdf13846d294.png)
 ## Badges
